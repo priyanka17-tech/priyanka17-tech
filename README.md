@@ -5,7 +5,7 @@
 src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:ff00ff&height=200&section=header&text=PRIYANKA%20GHATKAR&fontSize=45&fontColor=ffffff&animation=twinkling"/>
 
 <!-- ✨ ANIMATED TEXT -->
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=22&duration=2000&pause=800&color=00FFFF&center=true&vCenter=true&width=700&lines=Hey+I'm+Priyanka+Ghatkar;Software+Developer;AI+Enthusiast;Web+Developer;Code+%7C+Create+%7C+Grow"/>
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=22&duration=2000&pause=800&color=00FFFF&center=true&vCenter=true&width=700&lines=Software+Developer;AI+Enthusiast;Web+Developer;3D+Portfolio+Builder;Code+%7C+Create+%7C+Grow"/>
 
 </div>
 
@@ -13,38 +13,68 @@ src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,
 
 # 👋 Hey, I'm Priyanka Ghatkar
 
-🎓 CSE Student • 💻 Aspiring Developer • 🤖 AI Enthusiast  
-
-🏁 **Code • Speed • Precision**
-
-> “Learning never exhausts the mind.” — Leonardo da Vinci
+🎓 CSE Student • 💻 Developer • 🤖 AI Enthusiast  
+🏁 Code • Speed • Precision  
 
 ---
 
 # 🚀 About Me
 
-- 🎓 CSE undergraduate passionate about building real-world applications  
-- 🤖 Built AI & web-based projects  
-- 🐍 Strong in Python, exploring Data Analytics  
-- 🌐 Skilled in HTML, CSS, JavaScript  
-- 💻 Learning C++  
-- 🧠 Focused on DSA & CS fundamentals  
-- 💡 Interested in AI, automation & problem solving  
-- 🏁 Inspired by performance, logic & optimization  
+- 🎓 CSE undergraduate passionate about development  
+- 🤖 AI + Automation explorer  
+- 🌐 Web Development (HTML, CSS, JS, React)  
+- 🐍 Python + Data Analytics  
+- 💻 Learning C++ & DSA  
+- ⚙️ Problem solving mindset  
+- 🏎️ Inspired by performance & optimization  
 
 ---
 
-# ⚡ Tech Stack
+# ⚡ Tech Stack (3D Style View)
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=python,cpp,html,css,javascript,react,nodejs,mysql,mongodb,git,github,vscode"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,python,java,c,cpp,mysql,mongodb,git,github,vscode"/>
 
 </p>
 
 ---
 
-# 📊 GitHub Stats
+# 💠 3D PROJECT SHOWCASE
+
+## 🚀 Featured Projects
+
+### 🧑‍💻 Habit Tracker  
+Track daily habits and improve productivity  
+🔗 https://github.com/priyanka17-tech/Habit-tracker  
+
+---
+
+### 🛒 Green Market Project  
+Eco-friendly shopping platform  
+🔗 https://github.com/priyanka17-tech/_greenmarket_project  
+
+---
+
+### 🌐 HTML CSS Mini Projects  
+Frontend practice collection  
+🔗 https://github.com/priyanka17-tech/HTML-CSS-Mini-Projectt  
+
+---
+
+### 🎮 Scratch Final Project  
+Interactive learning project  
+🔗 https://github.com/priyanka17-tech/Scratch-final-project  
+
+---
+
+### 🍔 Online Food Delivery App  
+Modern food ordering UI  
+🔗 https://github.com/priyanka17-tech/online-food-delivery-app-os  
+
+---
+
+# 📊 GitHub Stats (3D Neon View)
 
 <p align="center">
 
@@ -78,32 +108,7 @@ src="https://github-readme-streak-stats.herokuapp.com/?user=priyanka17-tech&them
 
 ---
 
-# 📂 Projects
-
-|----------|-------------|
-## 📂 Featured Projects
-
-| 🚀 Project | 📌 Description | 🔗 Link |
-|------------|----------------|--------|
-| 🧑‍💻 Habit Tracker | Track daily habits & productivity | https://github.com/priyanka17-tech/Habit-tracker |
-| 🛒 Green Market Project | Eco-friendly shopping platform | https://github.com/priyanka17-tech/_greenmarket_project |
-| 🌐 HTML CSS Mini Project | Frontend practice projects | https://github.com/priyanka17-tech/HTML-CSS-Mini-Projectt |
-| 🎮 Scratch Final Project | Interactive Scratch-based project | https://github.com/priyanka17-tech/Scratch-final-project |
-| 🍔 Food Delivery App | Online food ordering system | https://github.com/priyanka17-tech/online-food-delivery-app-os 
----
-
-
-
-# 🏎️ Beyond Code
-
-🏁 Formula 1 & racing strategy enthusiast  
-⚙️ Interested in performance engineering  
-🎯 Loves optimization & data-driven decisions  
-📈 Strong analytical mindset  
-
----
-
-# 📬 Connect With Me
+# 🌐 Connect With Me
 
 <p align="center">
 
@@ -123,16 +128,17 @@ src="https://github-readme-streak-stats.herokuapp.com/?user=priyanka17-tech&them
 
 ---
 
-# ✨ Quote
+# 💡 Quote
 
 <div align="center">
 
-### Learn • Build • Improve • Repeat
+### ✨ Learn • Build • Improve • Repeat ✨
 
 </div>
 
 ---
 
+<!-- 🌈 FOOTER -->
 <div align="center">
 
 <img width="100%" height="120"
