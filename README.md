@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Pallavi Sarovar</h1>
+<h1 align="center">Hi 👋, I'm Priyanka Ghatkar</h1>
 <h3 align="center">CSE Student | Aspiring Developer | AI Enthusiast</h3>
 
 ---
