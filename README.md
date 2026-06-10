@@ -80,15 +80,19 @@ src="https://github-readme-streak-stats.herokuapp.com/?user=priyanka17-tech&them
 
 # 📂 Projects
 
-| Project | Description |
 |----------|-------------|
-| 🤖 Jarvis AI | Python voice assistant |
-| ⏱ Pomodoro Timer | Focus timer (HTML/CSS/JS) |
-| 🧮 Calculator | Responsive calculator |
-| ⌨ Typing Analyzer | Speed & accuracy tracker |
-| ✅ To-Do App | Task manager |
+## 📂 Featured Projects
 
+| 🚀 Project | 📌 Description | 🔗 Link |
+|------------|----------------|--------|
+| 🧑‍💻 Habit Tracker | Track daily habits & productivity | https://github.com/priyanka17-tech/Habit-tracker |
+| 🛒 Green Market Project | Eco-friendly shopping platform | https://github.com/priyanka17-tech/_greenmarket_project |
+| 🌐 HTML CSS Mini Project | Frontend practice projects | https://github.com/priyanka17-tech/HTML-CSS-Mini-Projectt |
+| 🎮 Scratch Final Project | Interactive Scratch-based project | https://github.com/priyanka17-tech/Scratch-final-project |
+| 🍔 Food Delivery App | Online food ordering system | https://github.com/priyanka17-tech/online-food-delivery-app-os 
 ---
+
+
 
 # 🏎️ Beyond Code
 
