@@ -1,139 +1,115 @@
 <div align="center">
 
-<!-- 🌌 HEADER -->
-<img width="100%" height="200"
-src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:ff00ff&height=200&section=header&text=PRIYANKA%20GHATKAR&fontSize=45&fontColor=ffffff&animation=twinkling"/>
+<!-- 🌈 HEADER -->
+<img width="100%" height="160"
+src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:2a5298&height=160&text=PRIYANKA%20GHATKAR&fontSize=38&fontColor=ffffff"/>
 
-<!-- ✨ ANIMATED TEXT -->
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=22&duration=2000&pause=800&color=00FFFF&center=true&vCenter=true&width=700&lines=Software+Developer;AI+Enthusiast;Web+Developer;3D+Portfolio+Builder;Code+%7C+Create+%7C+Grow"/>
+<!-- ✨ ANIMATION -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2000&pause=800&color=00C2FF&center=true&vCenter=true&width=600&lines=GitHub+Portfolio+Developer;CSE+Student;Aspiring+Software+Engineer;AI+Enthusiast"/>
 
 </div>
 
 ---
 
-# 👋 Hey, I'm Priyanka Ghatkar
+# 👤 PROFILE SUMMARY
 
-🎓 CSE Student • 💻 Developer • 🤖 AI Enthusiast  
-🏁 Code • Speed • Precision  
-
----
-
-# 🚀 About Me
-
-- 🎓 CSE undergraduate passionate about development  
-- 🤖 AI + Automation explorer  
-- 🌐 Web Development (HTML, CSS, JS, React)  
-- 🐍 Python + Data Analytics  
-- 💻 Learning C++ & DSA  
-- ⚙️ Problem solving mindset  
-- 🏎️ Inspired by performance & optimization  
+💻 Name: Priyanka Ghatkar  
+🎓 Course: B.Tech CSE  
+🤖 Interest: AI, Web Development, Data Science  
+📍 Goal: Become a Software Developer  
 
 ---
 
-# ⚡ TECH STACK
+# 🚀 ABOUT THIS PROJECT
 
-## 💻 Programming
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c)
+This repository represents my **professional GitHub portfolio**, created as part of an academic assignment.
 
-## 🌐 Web Development
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript)
-
-## 🔧 Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
-![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code)
-
-## 📊 Data & Libraries
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-orange?style=for-the-badge)
+It demonstrates:
+- GitHub profile setup
+- Project development
+- Version control (Git/GitHub)
+- Professional documentation
+- LinkedIn profile integration
 
 ---
 
-# 📂 PROJECTS
+# 🛠️ TECH STACK
 
-| Project | Description |
-|--------|-------------|
-| 🧑‍💻 Habit Tracker | Productivity & habit tracking system |
-| 🛒 Green Market Project | Eco-friendly shopping web app |
-| 🌐 HTML CSS Mini Projects | Frontend practice projects |
-| 🎮 Scratch Final Project | Interactive learning project |
-| 🍔 Food Delivery App | Online food ordering UI |
+**Languages:** Python • C++ • Java • JavaScript  
+**Frontend:** HTML • CSS • React  
+**Backend:** Node.js  
+**Database:** MongoDB • MySQL  
+**Tools:** Git • GitHub • VS Code  
 
 ---
 
+# 📂 PROJECTS SHOWCASE
 
-# 📊 GitHub Stats (3D Neon View)
+| 🚀 Project | 📌 Description | 🔗 Link |
+|------------|----------------|--------|
+| 🧑‍💻 Habit Tracker | Productivity tracking web application | https://github.com/priyanka17-tech/Habit-tracker |
+| 🛒 Green Market Project | Eco-friendly shopping platform | https://github.com/priyanka17-tech/_greenmarket_project |
+| 🌐 HTML CSS Mini Project | Frontend UI practice projects | https://github.com/priyanka17-tech/HTML-CSS-Mini-Projectt |
+| 🎮 Scratch Final Project | Interactive Scratch-based project | https://github.com/priyanka17-tech/Scratch-final-project |
+| 🍔 Food Delivery App | Online food ordering UI project | https://github.com/priyanka17-tech/online-food-delivery-app-os |
+
+---
+
+# 📊 GITHUB PROFILE INSIGHTS
 
 <p align="center">
 
-<img height="150"
+<img height="140"
 src="https://github-readme-stats.vercel.app/api?username=priyanka17-tech&show_icons=true&theme=tokyonight"/>
 
-<img height="150"
+<img height="140"
 src="https://github-readme-streak-stats.herokuapp.com/?user=priyanka17-tech&theme=tokyonight"/>
 
 </p>
 
 ---
 
-# 📈 Activity Graph
+# 🔗 LINKS (IMPORTANT FOR ASSIGNMENT)
 
-<p align="center">
+🐙 GitHub Profile:  
+https://github.com/priyanka17-tech  
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=priyanka17-tech&theme=react-dark"/>
+💼 LinkedIn Profile:  
+https://www.linkedin.com/in/priyanka-ghatkar-a6bbb9308  
 
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=priyanka17-tech&theme=algolia&row=1&column=7"/>
-
-</p>
+📧 Email:  
+ghatkarpriyanka17@gmail.com  
 
 ---
 
-# 🌐 Connect With Me
+# 📌 VERSION CONTROL EVIDENCE
 
-<p align="center">
-
-<a href="https://www.linkedin.com/in/priyanka-ghatkar-a6bbb9308">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
-</a>
-
-<a href="mailto:ghatkarpriyanka17@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail"/>
-</a>
-
-<a href="https://github.com/priyanka17-tech">
-<img src="https://skillicons.dev/icons?i=github"/>
-</a>
-
-</p>
+✔ Multiple repositories created  
+✔ Regular commits performed  
+✔ Projects pushed using Git  
+✔ Code maintained using GitHub version control  
 
 ---
 
-# 💡 Quote
+# 📈 LINKEDIN SHOWCASE (WHAT YOU SHOULD DO)
+
+- Add GitHub link to LinkedIn profile  
+- Add at least 2 projects  
+- Write post: “My GitHub Portfolio Project Completed”  
+
+---
+
+# 🎯 EXPECTED OUTCOME
+
+✔ Learned GitHub workflow  
+✔ Built professional portfolio  
+✔ Understood version control  
+✔ Created recruiter-ready profile  
+
+---
 
 <div align="center">
 
 ### ✨ Learn • Build • Improve • Repeat ✨
-
-</div>
-
----
-
-<!-- 🌈 FOOTER -->
-<div align="center">
-
-<img width="100%" height="120"
-src="https://capsule-render.vercel.app/api?type=waving&color=0:ff00ff,100:0f0c29&height=120&section=footer"/>
 
 </div>
