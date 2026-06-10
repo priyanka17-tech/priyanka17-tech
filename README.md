@@ -30,8 +30,6 @@ src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,
 
 ---
 
-# ⚡ Tech Stack (3D Style View)
-
 # ⚡ TECH STACK
 
 ## 💻 Programming
@@ -52,13 +50,6 @@ src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-orange?style=for-the-badge)
-
----
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,python,java,c,cpp,mysql,mongodb,git,github,vscode"/>
-
-</p>
 
 ---
 
