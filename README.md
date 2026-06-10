@@ -2,228 +2,120 @@
 
 <!-- 🌈 HEADER -->
 <img width="100%" height="160"
-src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:2a5298&height=160&text=PRIYANKA%20GHATKAR&fontSize=38&fontColor=ffffff"/>
+src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,50:243B55,100:6a11cb&height=160&text=PRIYANKA%20GHATKAR&fontSize=38&fontColor=ffffff"/>
 
-<!-- ✨ ANIMATION -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2000&pause=800&color=00C2FF&center=true&vCenter=true&width=600&lines=💻+GitHub+Portfolio+Developer;🎓+CSE+Student;🚀+Aspiring+Software+Engineer;🤖+AI+Enthusiast"/>
-
-</div>
-
----
-
-# 👤 🪪 PROFILE SUMMARY
-
-💻 **Name:** Priyanka Ghatkar  
-🎓 **Course:** B.Tech CSE  
-🤖 **Interest:** AI • Web Development • Data Science  
-📍 **Goal:** Software Engineer 🚀  
-
----
-
-# 🚀 📌 ABOUT THIS PROJECT
-
-✨ This repository represents my **professional GitHub portfolio**
-
-✔ GitHub Profile Setup  
-✔ Project Development & Upload  
-✔ Version Control (Git & GitHub)  
-✔ Clean Documentation  
-✔ LinkedIn Integration  
-
----
-
-# 🛠️ ⚙️ TECH STACK
-
-💻 **Languages:**  
-🟡 Python • ⚙️ C++ • ☕ Java • ⚡ JavaScript  
-
-🌐 **Frontend:**  
-🟣 HTML • 🔵 CSS • ⚛️ React  
-
-🧠 **Backend:**  
-🟢 Node.js  
-
-🗄️ **Database:**  
-🟠 MongoDB • 🟤 MySQL  
-
-🧰 **Tools:**  
-🔧 Git • 🐙 GitHub • 💙 VS Code  
-
----
-
-# 📂 🚀 PROJECT SHOWCASE
-
-| 🚀 Project | 📌 Description | 🔗 Link |
-|------------|----------------|--------|
-| 🧑‍💻 Habit Tracker | 📊 Productivity tracking system | https://github.com/priyanka17-tech/Habit-tracker |
-| 🛒 Green Market Project | 🌱 Eco-friendly shopping platform | https://github.com/priyanka17-tech/_greenmarket_project |
-| 🌐 HTML CSS Mini Project | 🎨 Frontend UI practice projects | https://github.com/priyanka17-tech/HTML-CSS-Mini-Projectt |
-| 🎮 Scratch Final Project | 🎯 Interactive learning game project | https://github.com/priyanka17-tech/Scratch-final-project |
-| 🍔 Food Delivery App | 🛵 Online food ordering UI system | https://github.com/priyanka17-tech/online-food-delivery-app-os |
-
----
-
-# 📊 📈 GITHUB INSIGHTS
-
-<p align="center">
-
-<img height="140"
-src="https://github-readme-stats.vercel.app/api?username=priyanka17-tech&show_icons=true&theme=tokyonight"/>
-
-<img height="140"
-src="https://github-readme-streak-stats.herokuapp.com/?user=priyanka17-tech&theme=tokyonight"/>
-
-</p>
-
----
-
-# 🔗 🌐 CONNECT WITH ME
-
-🐙 **GitHub:**  
-👉 https://github.com/priyanka17-tech  
-
-💼 **LinkedIn:**  
-👉 https://www.linkedin.com/in/priyanka-ghatkar-a6bbb9308  
-
-📧 **Email:**  
-👉 ghatkarpriyanka17@gmail.com  
-
----
-
-# 📌 🧾 VERSION CONTROL EVIDENCE
-
-✔ Multiple repositories created 🗂️  
-✔ Regular commits made 🔄  
-✔ Git & GitHub used properly 🐙  
-✔ Projects documented clearly 📄  
-
----
-
-# 🎯 📢 EXPECTED OUTCOME
-
-✔ Learned Git workflow  
-✔ Built professional portfolio  
-✔ Understood version control system  
-✔ Created recruiter-ready GitHub profile  
-
----
-
-<div align="center">
-
-## ✨ 💡 Learn • Build • Improve • Repeat 💡 ✨
-
-</div><div align="center">
-
-<!-- 🌈 HEADER -->
-<img width="100%" height="160"
-src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:2a5298&height=160&text=PRIYANKA%20GHATKAR&fontSize=38&fontColor=ffffff"/>
-
-<!-- ✨ ANIMATION -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2000&pause=800&color=00C2FF&center=true&vCenter=true&width=600&lines=💻+GitHub+Portfolio+Developer;🎓+CSE+Student;🚀+Aspiring+Software+Engineer;🤖+AI+Enthusiast"/>
+<!-- ✨ ANIMATED TEXT -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2000&pause=800&color=00FFFF&center=true&vCenter=true&width=600&lines=CSE+Student;Aspiring+Developer;AI+Enthusiast;Python+Learner;Data+Science+Explorer"/>
 
 </div>
 
 ---
 
-# 👤 🪪 PROFILE SUMMARY
+# 👋 ABOUT ME
 
-💻 **Name:** Priyanka Ghatkar  
-🎓 **Course:** B.Tech CSE  
-🤖 **Interest:** AI • Web Development • Data Science  
-📍 **Goal:** Software Engineer 🚀  
-
----
-
-# 🚀 📌 ABOUT THIS PROJECT
-
-✨ This repository represents my **professional GitHub portfolio**
-
-✔ GitHub Profile Setup  
-✔ Project Development & Upload  
-✔ Version Control (Git & GitHub)  
-✔ Clean Documentation  
-✔ LinkedIn Integration  
+🎓 **Priyanka Ghatkar**  
+💻 CSE Student  
+🤖 AI Enthusiast  
+🐍 Python & Data Science Learner  
+🌐 Web Development Enthusiast  
 
 ---
 
-# 🛠️ ⚙️ TECH STACK
+# 🏁 MOTTO
 
-💻 **Languages:**  
-🟡 Python • ⚙️ C++ • ☕ Java • ⚡ JavaScript  
+🏎️ Code • Speed • Precision  
 
-🌐 **Frontend:**  
-🟣 HTML • 🔵 CSS • ⚛️ React  
-
-🧠 **Backend:**  
-🟢 Node.js  
-
-🗄️ **Database:**  
-🟠 MongoDB • 🟤 MySQL  
-
-🧰 **Tools:**  
-🔧 Git • 🐙 GitHub • 💙 VS Code  
+> “Learning never exhausts the mind.” — Leonardo da Vinci  
 
 ---
 
-# 📂 🚀 PROJECT SHOWCASE
+# 🚀 ABOUT ME
+
+- 🎓 CSE undergraduate passionate about real-world applications  
+- 🤖 Built AI & web-based projects  
+- 🐍 Strong in Python, exploring Data Analytics  
+- 🌐 Skilled in HTML, CSS, JavaScript  
+- 💻 Learning C++  
+- 🧠 Focused on DSA & core CS fundamentals  
+- 💡 Interested in AI, automation & problem-solving  
+- 🏎️ Passionate about Formula 1 & performance systems  
+
+---
+
+# ⚡ TECH STACK
+
+## 💻 Programming
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c)
+
+## 🌐 Web Development
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript)
+
+## 🔧 Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code)
+
+## 📊 Data & Libraries
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-orange?style=for-the-badge)
+
+---
+
+# 📂 PROJECTS
 
 | 🚀 Project | 📌 Description | 🔗 Link |
 |------------|----------------|--------|
-| 🧑‍💻 Habit Tracker | 📊 Productivity tracking system | https://github.com/priyanka17-tech/Habit-tracker |
-| 🛒 Green Market Project | 🌱 Eco-friendly shopping platform | https://github.com/priyanka17-tech/_greenmarket_project |
-| 🌐 HTML CSS Mini Project | 🎨 Frontend UI practice projects | https://github.com/priyanka17-tech/HTML-CSS-Mini-Projectt |
-| 🎮 Scratch Final Project | 🎯 Interactive learning game project | https://github.com/priyanka17-tech/Scratch-final-project |
-| 🍔 Food Delivery App | 🛵 Online food ordering UI system | https://github.com/priyanka17-tech/online-food-delivery-app-os |
+| 🤖 Jarvis AI | Python voice assistant | GitHub |
+| ⏱ Pomodoro Timer | Focus timer (HTML, CSS, JS) | Live |
+| 🧮 Calculator | Responsive calculator | GitHub |
+| ⌨ Typing Analyzer | Speed & accuracy tracker | GitHub |
+| ✅ To-Do App | Task manager application | GitHub |
 
 ---
 
-# 📊 📈 GITHUB INSIGHTS
+# 🏎️ BEYOND CODE
+
+🏁 Formula 1 & race strategy enthusiast  
+⚙️ Interested in performance engineering  
+🎯 Curious about optimization systems  
+📈 Data-driven decision mindset  
+
+---
+
+# 📊 GITHUB STATS
 
 <p align="center">
 
 <img height="140"
-src="https://github-readme-stats.vercel.app/api?username=priyanka17-tech&show_icons=true&theme=tokyonight"/>
+src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
 
 <img height="140"
-src="https://github-readme-streak-stats.herokuapp.com/?user=priyanka17-tech&theme=tokyonight"/>
+src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight"/>
 
 </p>
 
 ---
 
-# 🔗 🌐 CONNECT WITH ME
+# 📬 CONNECT WITH ME
 
-🐙 **GitHub:**  
-👉 https://github.com/priyanka17-tech  
-
-💼 **LinkedIn:**  
-👉 https://www.linkedin.com/in/priyanka-ghatkar-a6bbb9308  
-
-📧 **Email:**  
-👉 ghatkarpriyanka17@gmail.com  
+📧 Email: your-email@gmail.com  
+🔗 LinkedIn: your-linkedin-url  
+🐙 GitHub: your-github-url  
 
 ---
 
-# 📌 🧾 VERSION CONTROL EVIDENCE
+# 🎯 CAREER OBJECTIVE
 
-✔ Multiple repositories created 🗂️  
-✔ Regular commits made 🔄  
-✔ Git & GitHub used properly 🐙  
-✔ Projects documented clearly 📄  
-
----
-
-# 🎯 📢 EXPECTED OUTCOME
-
-✔ Learned Git workflow  
-✔ Built professional portfolio  
-✔ Understood version control system  
-✔ Created recruiter-ready GitHub profile  
+To become a skilled software developer by building impactful projects, strengthening problem-solving skills, and gaining real-world experience in software development and data analytics.
 
 ---
 
 <div align="center">
 
-## ✨ 💡 Learn • Build • Improve • Repeat 💡 ✨
+✨ Learn the Why • Build the How • Grow Every Day ✨
 
 </div>
