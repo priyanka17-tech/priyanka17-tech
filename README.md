@@ -58,7 +58,7 @@ src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,
 
 | 🚀 Project | 📌 Description | 🔗 Link |
 |------------|----------------|--------|
-| 🤖 Jarvis AI | Python voice assistant | https://github.com/priyanka17-tech/Habit-tracker |
+| 🤖 Habit tracker | Habit Management Application| https://github.com/priyanka17-tech/Habit-tracker |
 | 🛒 Green Market Project | Eco-friendly shopping web app | https://github.com/priyanka17-tech/_greenmarket_project |
 | 🌐 HTML CSS Mini Project | Frontend practice projects | https://github.com/priyanka17-tech/HTML-CSS-Mini-Projectt |
 | 🎮 Scratch Final Project | Interactive Scratch learning project | https://github.com/priyanka17-tech/Scratch-final-project |
