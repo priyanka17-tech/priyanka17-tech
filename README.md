@@ -32,6 +32,28 @@ src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,
 
 # ⚡ Tech Stack (3D Style View)
 
+# ⚡ TECH STACK
+
+## 💻 Programming
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c)
+
+## 🌐 Web Development
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript)
+
+## 🔧 Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code)
+
+## 📊 Data & Libraries
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-orange?style=for-the-badge)
+
+---
 <p align="center">
 
 <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,python,java,c,cpp,mysql,mongodb,git,github,vscode"/>
