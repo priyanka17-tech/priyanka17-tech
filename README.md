@@ -12,21 +12,23 @@ src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,
 ---
 
 # 👋 Hey, I'm Priyanka Ghatkar
+🎓 CSE Student | 💻 Developer | 🤖 AI Enthusiast
 
-🎓 CSE Student • 💻 Software Developer • 🤖 AI Enthusiast  
-🏁 Code • Speed • Precision  
+💻 Python • Web Dev • DSA
+🚀 Learning & Building Everyday
 
 ---
 
 # 👤 ABOUT ME
 
-- 🎓 CSE undergraduate passionate about real-world applications  
-- 💻 Skilled in Web Development & Programming  
-- 🤖 Interested in AI & Machine Learning  
-- 🐍 Strong in Python  
-- 🌐 HTML, CSS, JavaScript learner  
-- 🧠 Focused on DSA & problem solving  
-- 🚀 Always building projects and improving skills  
+-🎓 Computer Science Engineering student passionate about technology and innovation
+-🔧 Skilled in Python, C, C++, HTML & CSS with a strong focus on fundamentals
+-📊 Exploring Artificial Intelligence, Data Science & Data Analytics
+-🎨 Interested in UI/UX design using Figma and Canva
+-🧠 Strong problem-solving mindset with love for clean code and DSA practice
+-🚀 Enjoy building real-world projects and improving development skills daily
+-🌐 Interested in Web Development and creating responsive user interfaces
+-💡 Always curious to learn new tools, technologies, and industry trends
 
 ---
 
