@@ -6,7 +6,7 @@
 
 ---
 
-### Hey, I'm Pallavi Sarovar 👋
+### Hey, I'm Priyanka Ghatkar 👋
 
 🎓 CSE Student | Aspiring Developer | AI Enthusiast
 
