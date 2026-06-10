@@ -1,115 +1,137 @@
 <div align="center">
 
-<!-- 🧊 GLASS HEADER -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:141E30,100:243B55&height=140&section=header&text=PRIYANKA%20GHATKAR&fontSize=40&fontColor=ffffff"/>
+<!-- 🌌 HEADER -->
+<img width="100%" height="200"
+src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:ff00ff&height=200&section=header&text=PRIYANKA%20GHATKAR&fontSize=45&fontColor=ffffff&animation=twinkling"/>
 
-<!-- 💫 TYPING -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=800&color=00F5FF&center=true&vCenter=true&width=600&lines=Software+Developer;AI+Explorer;Web+Developer;Problem+Solver"/>
-
-</div>
-
----
-
-## 🧑‍💻 PROFILE SNAPSHOT
-
-<div align="center">
-
-| 👤 Name | 💻 Role | 📍 Location |
-|--------|--------|------------|
-| Priyanka Ghatkar | Developer | India |
+<!-- ✨ ANIMATED TEXT -->
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=22&duration=2000&pause=800&color=00FFFF&center=true&vCenter=true&width=700&lines=Hey+I'm+Priyanka+Ghatkar;Software+Developer;AI+Enthusiast;Web+Developer;Code+%7C+Create+%7C+Grow"/>
 
 </div>
 
 ---
 
-## 🚀 ABOUT ME (CARD UI STYLE)
+# 👋 Hey, I'm Priyanka Ghatkar
 
-<div>
+🎓 CSE Student • 💻 Aspiring Developer • 🤖 AI Enthusiast  
 
-🧠 Passionate about coding & problem solving  
-🤖 Exploring AI & Automation  
-🌐 Web Development learner  
-🐍 Python + Data Analytics interest  
-⚙️ Focused on DSA & logic building  
-🏁 Inspired by performance & precision  
+🏁 **Code • Speed • Precision**
 
-</div>
+> “Learning never exhausts the mind.” — Leonardo da Vinci
 
 ---
 
-## ⚡ SKILLS DASHBOARD
+# 🚀 About Me
+
+- 🎓 CSE undergraduate passionate about building real-world applications  
+- 🤖 Built AI & web-based projects  
+- 🐍 Strong in Python, exploring Data Analytics  
+- 🌐 Skilled in HTML, CSS, JavaScript  
+- 💻 Learning C++  
+- 🧠 Focused on DSA & CS fundamentals  
+- 💡 Interested in AI, automation & problem solving  
+- 🏁 Inspired by performance, logic & optimization  
+
+---
+
+# ⚡ Tech Stack
 
 <p align="center">
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react)
-![Node](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb)
+<img src="https://skillicons.dev/icons?i=python,cpp,html,css,javascript,react,nodejs,mysql,mongodb,git,github,vscode"/>
 
 </p>
 
 ---
 
-## 📊 GITHUB PERFORMANCE UI
+# 📊 GitHub Stats
 
-<div align="center">
+<p align="center">
 
-<img height="160"
-src="https://github-readme-stats.vercel.app/api?username=priyanka17-tech&show_icons=true&theme=radical"/>
+<img height="150"
+src="https://github-readme-stats.vercel.app/api?username=priyanka17-tech&show_icons=true&theme=tokyonight"/>
 
-<img height="160"
-src="https://github-readme-streak-stats.herokuapp.com/?user=priyanka17-tech&theme=radical"/>
+<img height="150"
+src="https://github-readme-streak-stats.herokuapp.com/?user=priyanka17-tech&theme=tokyonight"/>
 
-</div>
+</p>
 
 ---
 
-## 📈 ACTIVITY MAP
+# 📈 Activity Graph
 
-<div align="center">
+<p align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=priyanka17-tech&theme=react-dark"/>
 
-</div>
+</p>
 
 ---
 
-## 🏆 ACHIEVEMENTS PANEL
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=priyanka17-tech&theme=algolia&row=1&column=7"/>
+
+</p>
+
+---
+
+# 📂 Projects
+
+| Project | Description |
+|----------|-------------|
+| 🤖 Jarvis AI | Python voice assistant |
+| ⏱ Pomodoro Timer | Focus timer (HTML/CSS/JS) |
+| 🧮 Calculator | Responsive calculator |
+| ⌨ Typing Analyzer | Speed & accuracy tracker |
+| ✅ To-Do App | Task manager |
+
+---
+
+# 🏎️ Beyond Code
+
+🏁 Formula 1 & racing strategy enthusiast  
+⚙️ Interested in performance engineering  
+🎯 Loves optimization & data-driven decisions  
+📈 Strong analytical mindset  
+
+---
+
+# 📬 Connect With Me
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/priyanka-ghatkar-a6bbb9308">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+
+<a href="mailto:ghatkarpriyanka17@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail"/>
+</a>
+
+<a href="https://github.com/priyanka17-tech">
+<img src="https://skillicons.dev/icons?i=github"/>
+</a>
+
+</p>
+
+---
+
+# ✨ Quote
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=priyanka17-tech&theme=onedark&row=1&column=6"/>
+### Learn • Build • Improve • Repeat
 
 </div>
 
 ---
-
-## 🌐 CONNECT PANEL (BUTTON STYLE)
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/priyanka-ghatkar-a6bbb9308)
-
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail)](mailto:ghatkarpriyanka17@gmail.com)
-
-[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github)](https://github.com/priyanka17-tech)
+<img width="100%" height="120"
+src="https://capsule-render.vercel.app/api?type=waving&color=0:ff00ff,100:0f0c29&height=120&section=footer"/>
 
 </div>
-
----
-
-## 🎯 MOTTO
-
-<div align="center">
-
-### ✨ Learn → Build → Improve → Repeat ✨
-
-</div>
-
----
-
-## 🧊 FOOTER STYLE
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:243B55,100:141E30&height=120&section=footer"/>
