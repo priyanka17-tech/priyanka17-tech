@@ -1,100 +1,145 @@
 <div align="center">
 
-# Priyanka Ghatkar 🌸
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0f0c29,50:302b63,100:24243e&text=PRIYANKA%20GHATKAR&fontSize=60&fontColor=ffffff&animation=twinkling"/>
 
-### Driven by Code | Inspired by Speed
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=30&duration=2500&pause=1000&color=FF61F6&center=true&vCenter=true&width=850&lines=Hi+I'm+Priyanka+Ghatkar;Software+Developer;AI+Enthusiast;Web+Developer;Open+Source+Learner;Always+Building+Something+New"/>
 
----
-
-### Hey, I'm Priyanka Ghatkar 👋
-
-🎓 CSE Student | Aspiring Developer | AI Enthusiast
-
-💻 Code • Speed • Precision 🚗
-
-*"Learning never exhausts the mind." — Leonardo da Vinci*
+<img src="https://komarev.com/ghpvc/?username=priyanka17-tech&label=PROFILE+VIEWS&color=blueviolet&style=for-the-badge"/>
 
 </div>
 
 ---
 
+# 👋 Hey, I'm Priyanka Ghatkar
+
+### 🚀 Driven By Code | Inspired By Innovation
+
+🎓 Computer Science Student
+
+💻 Software Developer
+
+🤖 AI & Machine Learning Enthusiast
+
+🌐 Frontend & Full Stack Learner
+
+📚 DSA & Problem Solving
+
+✨ Building Projects That Create Impact
+
+---
+
 # 🚀 About Me
 
-- Undergraduate passionate about building real-world applications
-- AI & Web development projects
-- Strong in Python and Java
-- Learning DSA and CS fundamentals
-- Interested in AI, automation, and software engineering
+```yaml
+Name: Priyanka Ghatkar
+
+Location: Mumbai, India
+
+Role: Software Developer
+
+Focus:
+  - Web Development
+  - Artificial Intelligence
+  - Open Source
+  - Problem Solving
+
+Currently Learning:
+  - React.js
+  - Node.js
+  - Machine Learning
+  - DSA
+```
 
 ---
 
-# 🛠 Tech Stack
+# ⚡ Tech Stack
 
-### Programming
+<div align="center">
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,python,java,c,cpp,mysql,mongodb,git,github,vscode&perline=7"/>
 
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-
-### Web Development
-
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+</div>
 
 ---
 
-# 📊 Data & Libraries
+# 🛠 Tools
 
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
+<div align="center">
 
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
+<img src="https://skillicons.dev/icons?i=figma,firebase,postman,linux,vercel,netlify"/>
 
-![Matplotlib](https://img.shields.io/badge/Matplotlib-orange?style=for-the-badge)
-
----
-
-# 🔧 Tools
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
-
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
-
-![VSCode](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code)
+</div>
 
 ---
 
-# 📂 Projects
+# 📊 GitHub Stats
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=priyanka17-tech&show_icons=true&theme=tokyonight"/>
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=priyanka17-tech&theme=tokyonight"/>
+
+</div>
+
+---
+
+# 📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=priyanka17-tech&theme=tokyo-night"/>
+
+</div>
+
+---
+
+# 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=priyanka17-tech&theme=algolia&row=1&column=7"/>
+
+</div>
+
+---
+
+# 🌟 Featured Projects
 
 | Project | Description |
-|----------|------------|
-| AI Assistant | Python voice assistant |
-| Pomodoro Timer | Focus timer |
-| Calculator | Responsive calculator |
-| To Do App | Task manager |
-
----
-
-# 📈 GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight)
+|----------|-------------|
+| 🤖 AI Assistant | AI-powered assistant |
+| 🌐 Portfolio Website | Personal portfolio |
+| 📊 Analytics Dashboard | Data visualization |
+| 📱 Task Manager | Productivity app |
+| 🧮 Calculator | Modern calculator |
 
 ---
 
 # 🌐 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](YOUR_LINKEDIN)
+<div align="center">
 
-[![Gmail](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail)](mailto:YOUR_EMAIL)
+<a href="https://www.linkedin.com/in/priyanka-ghatkar-a6bbb9308">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+
+<a href="mailto:ghatkarpriyanka17@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail"/>
+</a>
+
+<a href="https://github.com/priyanka17-tech">
+<img src="https://skillicons.dev/icons?i=github"/>
+</a>
+
+</div>
 
 ---
 
-# 🎯 Career Objective
+<div align="center">
 
-To grow as a developer by building impactful projects, strengthening problem-solving skills, and gaining real-world experience in software development and data analytics.
+## 💜 Code • Learn • Build • Repeat
 
-⭐ Learn • Build • Improve Every Day ⭐
+<img src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=0:24243e,100:302b63"/>
+
+</div>
