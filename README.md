@@ -1,124 +1,76 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0f0c29,50:302b63,100:24243e&text=PRIYANKA%20GHATKAR&fontSize=60&fontColor=ffffff&animation=twinkling"/>
+<!-- 🌈 HEADER -->
+<img width="100%" height="200"
+src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:ff00ff&height=200&section=header&text=PRIYANKA%20GHATKAR&fontSize=45&fontColor=ffffff&animation=twinkling"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=30&duration=2500&pause=1000&color=FF61F6&center=true&vCenter=true&width=850&lines=Hi+I'm+Priyanka+Ghatkar;Software+Developer;AI+Enthusiast;Web+Developer;Open+Source+Learner;Always+Building+Something+New"/>
+<!-- ✨ ANIMATED TEXT -->
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=22&duration=2000&pause=800&color=00FFFF&center=true&vCenter=true&width=600&lines=Software+Developer;AI+Enthusiast;Web+Developer;Problem+Solver;Always+Learning+New+Things"/>
 
-<img src="https://komarev.com/ghpvc/?username=priyanka17-tech&label=PROFILE+VIEWS&color=blueviolet&style=for-the-badge"/>
+<!-- 👁️ PROFILE VIEWS -->
+<img src="https://komarev.com/ghpvc/?username=priyanka17-tech&style=for-the-badge&color=blueviolet"/>
 
 </div>
 
 ---
 
-# 👋 Hey, I'm Priyanka Ghatkar
+# 👋 About Me
 
-### 🚀 Driven By Code | Inspired By Innovation
-
-🎓 Computer Science Student
-
-💻 Software Developer
-
-🤖 AI & Machine Learning Enthusiast
-
-🌐 Frontend & Full Stack Learner
-
-📚 DSA & Problem Solving
-
-✨ Building Projects That Create Impact
-
----
-
-# 🚀 About Me
-
-```yaml
-Name: Priyanka Ghatkar
-
-Location: Mumbai, India
-
-Role: Software Developer
-
-Focus:
-  - Web Development
-  - Artificial Intelligence
-  - Open Source
-  - Problem Solving
-
-Currently Learning:
-  - React.js
-  - Node.js
-  - Machine Learning
-  - DSA
-```
+💻 Software Developer  
+🤖 AI & ML Enthusiast  
+🌐 Web Development Learner  
+📚 Passionate about DSA & Problem Solving  
+🚀 Building real-world projects  
 
 ---
 
 # ⚡ Tech Stack
 
-<div align="center">
+<p align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,python,java,c,cpp,mysql,mongodb,git,github,vscode&perline=7"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,python,java,c,cpp,mysql,mongodb,git,github,vscode"/>
 
-</div>
-
----
-
-# 🛠 Tools
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=figma,firebase,postman,linux,vercel,netlify"/>
-
-</div>
+</p>
 
 ---
 
 # 📊 GitHub Stats
 
-<div align="center">
+<p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=priyanka17-tech&show_icons=true&theme=tokyonight"/>
+<img height="150"
+src="https://github-readme-stats.vercel.app/api?username=priyanka17-tech&show_icons=true&theme=tokyonight"/>
 
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=priyanka17-tech&theme=tokyonight"/>
+<img height="150"
+src="https://github-readme-streak-stats.herokuapp.com/?user=priyanka17-tech&theme=tokyonight"/>
 
-</div>
+</p>
 
 ---
 
-# 📈 Contribution Graph
+# 📈 Activity Graph
 
-<div align="center">
+<p align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=priyanka17-tech&theme=tokyo-night"/>
 
-</div>
+</p>
 
 ---
 
 # 🏆 GitHub Trophies
 
-<div align="center">
+<p align="center">
 
 <img src="https://github-profile-trophy.vercel.app/?username=priyanka17-tech&theme=algolia&row=1&column=7"/>
 
-</div>
-
----
-
-# 🌟 Featured Projects
-
-| Project | Description |
-|----------|-------------|
-| 🤖 AI Assistant | AI-powered assistant |
-| 🌐 Portfolio Website | Personal portfolio |
-| 📊 Analytics Dashboard | Data visualization |
-| 📱 Task Manager | Productivity app |
-| 🧮 Calculator | Modern calculator |
+</p>
 
 ---
 
 # 🌐 Connect With Me
 
-<div align="center">
+<p align="center">
 
 <a href="https://www.linkedin.com/in/priyanka-ghatkar-a6bbb9308">
 <img src="https://skillicons.dev/icons?i=linkedin"/>
@@ -132,14 +84,24 @@ Currently Learning:
 <img src="https://skillicons.dev/icons?i=github"/>
 </a>
 
+</p>
+
+---
+
+# 💡 Quote
+
+<div align="center">
+
+### 🚀 Code • Learn • Build • Repeat
+
 </div>
 
 ---
 
+<!-- 🌈 FOOTER -->
 <div align="center">
 
-## 💜 Code • Learn • Build • Repeat
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=0:24243e,100:302b63"/>
+<img width="100%" height="120"
+src="https://capsule-render.vercel.app/api?type=waving&color=0:ff00ff,100:0f0c29&height=120&section=footer"/>
 
 </div>
